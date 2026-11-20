@@ -1,0 +1,4 @@
+# Generated certificates and keys must never be committed.
+certs/
+*.key
+__pycache__/

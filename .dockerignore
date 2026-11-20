@@ -1,0 +1,5 @@
+# Only webhook/ is needed in the image. Never ship certificates or keys.
+*
+!webhook/
+**/__pycache__
+**/*.pyc
