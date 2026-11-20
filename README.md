@@ -1,4 +1,4 @@
-# image-registry-control
+# container-admission
 
 An image-policy webhook for Kubernetes. It reads the container images of a Pod and allows or denies the Pod
 based on each image's registry and tag. 
